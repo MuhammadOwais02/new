@@ -14,7 +14,7 @@ def encrypt(text,s):
 
     return encrypted_string
 
-print('nopes')
+print('nopes'*100)
 
 #check the above function
 text = input('enter the text here : ') #DEFENDTHEFORT
